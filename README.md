@@ -14,6 +14,8 @@ mode switch is used to select if we are using buttons 1-18, 19-38 or 39-56
 to prevent unwanted doubleclicks there a bit of prevention code for that.
 encoder "push" can be quite short so that is made longer in code
 
+ small video: https://www.youtube.com/watch?v=6jVLBqPa_So
+
 This might get tons of tweaking but should work as a starting point
 
 I don't really care about licenses but since the joystick library is lgpl, It shoudl be
